@@ -1,11 +1,13 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 
-const About = () => {
-  return (
-    <Fragment>
-      <h1>About page</h1>
-    </Fragment>
-  );
-};
+const About = () => (
+	<div className="jumbotron jumbotron-fluid">
+		<div className="container">
+			<h1 className="display-4">Лучшее React приложение</h1>
+			<p className="lead">Версия приложения <strong>1.0.23</strong></p>
+		</div>
+	</div>
+);
+
 
 export default About;
