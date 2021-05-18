@@ -1,6 +1,6 @@
 # OPEN REACT APP
 
-[https://note-react-app-f11f1.web.app/]
+https://note-react-app-f11f1.web.app/
 
 # Getting Started with Create React App
 
